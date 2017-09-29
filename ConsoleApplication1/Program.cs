@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("Goodbye.");
             Console.ReadKey();
         }
     }
