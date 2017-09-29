@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            for(int i = 1; i < 6; i++)
+            for(int i = 1; i < 21; i++)
             {
                 Console.WriteLine(i);
             }
